@@ -145,6 +145,8 @@ main{
     justify-content: center;
     margin-top: 100px;
     column-gap: 40px;
+    width: 80%;
+    margin-left: 165px;
 }
 .fa-clock{
     background-color: #fff;
@@ -163,10 +165,7 @@ main{
     font-size: 15px;
     font-weight: 800;
 }
-main{
-    width: 80%;
-    margin-left: 165px;
-}
+
 
 
 
