@@ -165,6 +165,10 @@ main{
     font-size: 15px;
     font-weight: 800;
 }
+main{
+    width: 80%;
+    margin-left: 165px;
+}
 
 
 
